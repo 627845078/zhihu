@@ -36,16 +36,12 @@
 <template>
     <div class="about-container">
          <div class="github-box">
-            <a href="https://github.com/hilongjw">
-                <span class="github-link">hilongjw</span>
-            </a>
-            <span> / </span>
-            <a href="https://github.com/hilongjw/vue-zhihu-daily">
+            <a href="https://github.com/627845078/zhihu">
                 <span class="github-link">vue-zhihu-daily</span>
             </a>
             <br>
-            <p class="github-description">Awe用vue写的知乎日报web app啦</p>
-            <a href="https://github.com/hilongjw/vue-zhihu-daily">
+            <p class="github-description">用vue写的知乎日报web app啦</p>
+            <a href="https://github.com/627845078/zhihu">
                 <p class="github-star">还不给我star？o(╥﹏╥)o</p>
             </a>
          </div>
